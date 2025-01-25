@@ -1,2 +1,3 @@
 # GitHubDemo
-To study more baout git
+
+To study more about git
